@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/binaryjs/binaryjs.png)](http://travis-ci.org/binaryjs/binaryjs)
+[![Build Status](https://secure.travis-ci.org/soleilnoirmedia/binaryjs.png)](http://travis-ci.org/soleilnoirmedia/binaryjs)
 
 BinaryJS
 ========
